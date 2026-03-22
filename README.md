@@ -88,7 +88,7 @@ python train_all_ml_models.py
 ```
 *(Trained models will serialize into `# /models/*.pkl`)*.
 
-## 🔐 Demo Credentials
+##  Demo Credentials
 
 Use the following profiles to test RBAC parameters:
 
@@ -98,7 +98,7 @@ Use the following profiles to test RBAC parameters:
 | **Store Manager** | `priya@pharmasense.com` | `password123` |
 | **Pharmacist** | `siddharth@pharmasense.com` | `password123` |
 
-## 📊 Documentation
+##  Documentation
 
 For full technical specifications on methods, sequence diagrams, and mathematical calculations, view our native documents:
 - [Methodology & Documentation](PROJECT_METHODS_DOCUMENTATION.md)
