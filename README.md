@@ -10,11 +10,11 @@
   <strong>Intelligent AI-Powered Pharmacy & Inventory Management System</strong>
 </p>
 
-## 🚀 Overview
+##  Overview
 
 **PharmaSense** is a comprehensive, enterprise-level pharmacy management dashboard designed to modernize medical dispensing, stock tracking, and procurement workflows. Built strictly to industry standards, it fuses a lightning-fast React frontend with a sophisticated Python/Scikit-Learn **Machine Learning Engine** to systematically eliminate stockouts, minimize medical wastage, and enforce strict regulatory compliance.
 
-## ✨ Key Features
+##  Key Features
 
 - **Machine Learning Demand Forecasting**: Anticipates local seasonal diseases and historical usage to trigger automated Restock Alerts.
 - **First-Expire-First-Out (FEFO) Dispatching**: A custom algorithmic router that guarantees expiring medicine batches are split and dispensed prior to newer stockpiles to minimize wastage.
@@ -23,7 +23,7 @@
 - **Complete Financial Auditing**: Comprehensive compliance tracking that logs every single CRUD event, user action, and UI override interaction dynamically. 
 - **PDF Invoice Exports**: Localization built-in with dynamically rendering Indian Rupee receipts printable on strict A4 canvases. 
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Architecture Layer | Technology |
 | :--- | :--- |
@@ -34,7 +34,7 @@
 | **Data Generation** | Synthesized Datasets with localized geographic constraints |
 | **Report Generation** | Python `docx`, PDF Web Exports |
 
-## 📦 Project Architecture
+##  Project Architecture
 
 ```
 📂 pharmacy-system
@@ -51,7 +51,7 @@
  ┗ 📜 PROJECT_DIAGRAMS.md    # Mermaid.js UML Structural Diagrams
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Frontend Web App (React)
 
