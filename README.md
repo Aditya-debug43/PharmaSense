@@ -16,12 +16,12 @@
 
 ## ✨ Key Features
 
-- **🧠 Machine Learning Demand Forecasting**: Anticipates local seasonal diseases and historical usage to trigger automated Restock Alerts.
-- **⚕️ First-Expire-First-Out (FEFO) Dispatching**: A custom algorithmic router that guarantees expiring medicine batches are split and dispensed prior to newer stockpiles to minimize wastage.
-- **🔐 Deep Role-Based Access Control (RBAC)**: Secure workspaces mathematically segmented between `Pharmacists`, `Store Managers`, and global `Administrators`. 
-- **⚠️ Cross-Device Lifecycle Alerts**: Native active warning triggers for Low Stock, Near-Expiry, and automated Restock API handoffs.
-- **🧾 Complete Financial Auditing**: Comprehensive compliance tracking that logs every single CRUD event, user action, and UI override interaction dynamically. 
-- **🖨️ PDF Invoice Exports**: Localization built-in with dynamically rendering Indian Rupee receipts printable on strict A4 canvases. 
+- **Machine Learning Demand Forecasting**: Anticipates local seasonal diseases and historical usage to trigger automated Restock Alerts.
+- **First-Expire-First-Out (FEFO) Dispatching**: A custom algorithmic router that guarantees expiring medicine batches are split and dispensed prior to newer stockpiles to minimize wastage.
+- **Deep Role-Based Access Control (RBAC)**: Secure workspaces mathematically segmented between `Pharmacists`, `Store Managers`, and global `Administrators`. 
+- **Cross-Device Lifecycle Alerts**: Native active warning triggers for Low Stock, Near-Expiry, and automated Restock API handoffs.
+- **Complete Financial Auditing**: Comprehensive compliance tracking that logs every single CRUD event, user action, and UI override interaction dynamically. 
+- **PDF Invoice Exports**: Localization built-in with dynamically rendering Indian Rupee receipts printable on strict A4 canvases. 
 
 ## 🛠️ Technology Stack
 
